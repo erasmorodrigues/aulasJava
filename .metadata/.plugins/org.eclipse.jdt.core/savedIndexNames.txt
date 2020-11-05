@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\kamaleon\projetos\workspaces\aulas-java\.metadata\.plugins\org.eclipse.jdt.core
+690698414.index
